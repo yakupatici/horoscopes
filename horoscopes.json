@@ -1,0 +1,170 @@
+{
+  "aries": {
+    "daily": {
+      "text": "Bugün enerjiniz yüksek.",
+      "date": "2023-10-01"
+    },
+    "weekly": {
+      "text": "Bu hafta kariyer hedeflerinize odaklanmalısınız.",
+      "date": "2023-10-01"
+    },
+    "monthly": {
+      "text": "Bu ay finansal konularda dikkatli olmalısınız.",
+      "date": "2023-10-01"
+    }
+  },
+  "taurus": {
+    "daily": {
+      "text": "Bugün maddi konularda şanslı bir gündesiniz.",
+      "date": "2023-10-01"
+    },
+    "weekly": {
+      "text": "Bu hafta ilişkilerinizde önemli gelişmeler yaşanabilir.",
+      "date": "2023-10-01"
+    },
+    "monthly": {
+      "text": "Bu ay kariyerinizde yeni fırsatlar doğabilir.",
+      "date": "2023-10-01"
+    }
+  },
+  "gemini": {
+    "daily": {
+      "text": "Bugün sosyal ortamlarda daha fazla vakit geçirebilirsiniz.",
+      "date": "2023-10-01"
+    },
+    "weekly": {
+      "text": "Bu hafta iletişim becerilerinizi kullanarak önemli bağlantılar kurabilirsiniz.",
+      "date": "2023-10-01"
+    },
+    "monthly": {
+      "text": "Bu ay yeni projelere başlamak için uygun bir dönem.",
+      "date": "2023-10-01"
+    }
+  },
+  "cancer": {
+    "daily": {
+      "text": "Bugün duygusal olarak hassas hissedebilirsiniz.",
+      "date": "2023-10-01"
+    },
+    "weekly": {
+      "text": "Bu hafta içsel huzur arayışında olabilirsiniz.",
+      "date": "2023-10-01"
+    },
+    "monthly": {
+      "text": "Bu ay geçmişle yüzleşmek için uygun bir dönem.",
+      "date": "2023-10-01"
+    }
+  },
+  "leo": {
+    "daily": {
+      "text": "Bugün enerjiniz yüksek ve yeni başlangıçlar için ideal bir gün.",
+      "date": "2023-10-01"
+    },
+    "weekly": {
+      "text": "Bu hafta sosyal ortamlarda dikkat çekebilirsiniz.",
+      "date": "2023-10-01"
+    },
+    "monthly": {
+      "text": "Bu ay kariyerinizde önemli gelişmeler yaşanabilir.",
+      "date": "2023-10-01"
+    }
+  },
+  "virgo": {
+    "daily": {
+      "text": "Bugün detaylara dikkat etmelisiniz.",
+      "date": "2023-10-01"
+    },
+    "weekly": {
+      "text": "Bu hafta sağlığınıza dikkat etmelisiniz.",
+      "date": "2023-10-01"
+    },
+    "monthly": {
+      "text": "Bu ay yeni bir hobi edinmek için uygun bir dönem.",
+      "date": "2023-10-01"
+    }
+  },
+  "libra": {
+    "daily": {
+      "text": "Bugün sosyal ortamlarda daha fazla vakit geçirebilirsiniz.",
+      "date": "2023-10-01"
+    },
+    "weekly": {
+      "text": "Bu hafta ilişkilerinizde dengeyi sağlamaya çalışmalısınız.",
+      "date": "2023-10-01"
+    },
+    "monthly": {
+      "text": "Bu ay estetik ve sanatsal projelere yönelmek için uygun bir dönem.",
+      "date": "2023-10-01"
+    }
+  },
+  "scorpio": {
+    "daily": {
+      "text": "Bugün duygusal olarak yoğun hissedebilirsiniz.",
+      "date": "2023-10-01"
+    },
+    "weekly": {
+      "text": "Bu hafta ilişkilerinizde derinleşme fırsatları var.",
+      "date": "2023-10-01"
+    },
+    "monthly": {
+      "text": "Bu ay yeni projelere başlamak için uygun bir dönem.",
+      "date": "2023-10-01"
+    }
+  },
+  "sagittarius": {
+    "daily": {
+      "text": "Bugün yeni maceralara atılmak için ideal bir gün.",
+      "date": "2023-10-01"
+    },
+    "weekly": {
+      "text": "Bu hafta yeni fırsatlar karşınıza çıkabilir.",
+      "date": "2023-10-01"
+    },
+    "monthly": {
+      "text": "Bu ay yeni deneyimlere açık olmalısınız.",
+      "date": "2023-10-01"
+    }
+  },
+  "capricorn": {
+    "daily": {
+      "text": "Bugün iş hayatında önemli kararlar alabilirsiniz.",
+      "date": "2023-10-01"
+    },
+    "weekly": {
+      "text": "Bu hafta hedeflerinize odaklanmalısınız.",
+      "date": "2023-10-01"
+    },
+    "monthly": {
+      "text": "Bu ay kariyerinizde önemli gelişmeler yaşanabilir.",
+      "date": "2023-10-01"
+    }
+  },
+  "aquarius": {
+    "daily": {
+      "text": "Bugün yenilikçi fikirler geliştirebilirsiniz.",
+      "date": "2023-10-01"
+    },
+    "weekly": {
+      "text": "Bu hafta yeni projelere başlamak için uygun bir dönem.",
+      "date": "2023-10-01"
+    },
+    "monthly": {
+      "text": "Bu ay sosyal çevrenizde önemli değişiklikler olabilir.",
+      "date": "2023-10-01"
+    }
+  },
+  "pisces": {
+    "daily": {
+      "text": "Bugün duygusal olarak hassas hissedebilirsiniz.",
+      "date": "2023-10-01"
+    },
+    "weekly": {
+      "text": "Bu hafta içsel huzur arayışında olabilirsiniz.",
+      "date": "2023-10-01"
+    },
+    "monthly": {
+      "text": "Bu ay sanatsal projelere yönelmek için uygun bir dönem.",
+      "date": "2023-10-01"
+    }
+  }
+}
